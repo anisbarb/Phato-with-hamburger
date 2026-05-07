@@ -99,7 +99,7 @@ export default function MenuSheet({ open, onClose, isDriver, onBecomeDriver }: P
               <span className="absolute bottom-0 right-0 w-3 h-3 rounded-full bg-emerald-500 border-[2.5px] border-white" />
             </div>
             <div>
-              <div className="text-[15px] font-semibold text-[#10213f] leading-snug">Anis</div>
+              <div className="text-[15px] font-semibold text-[#10213f] leading-snug">PhatoOwner</div>
               <div className="text-[11px] text-slate-400">Passenger</div>
             </div>
           </div>
